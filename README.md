@@ -1,5 +1,3 @@
-<h3><b>Project Presentation and Analysis :</b></h3> https://docs.google.com/presentation/d/1CZG6feehZttgMjZkuua3Xxoo4fp8zbr2n4G2vOqgL7g/edit?usp=sharing
-
 <!-- Goal of the Test -->
 <h2><b>Goal of the Test</b></h2>
 <p>
